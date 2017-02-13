@@ -1,0 +1,3 @@
+[submodule "adventOfCodeElixir"]
+	path = adventOfCodeElixir
+	url = git@github.com:MaSven/adventOfCodeElixir.git
