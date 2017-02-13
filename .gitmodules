@@ -1,3 +1,6 @@
 [submodule "adventOfCodeElixir"]
 	path = adventOfCodeElixir
 	url = git@github.com:MaSven/adventOfCodeElixir.git
+[submodule "adventOfCodeJava"]
+	path = adventOfCodeJava
+	url = git@github.com:MaSven/adventOfCodeJava.git
